@@ -1,0 +1,13 @@
+salary:
+  item0:
+    group: 'tadmin'
+    pay: 6    
+  item1:
+    group: 'moder'
+    pay: 4  
+  item2:
+    group: 'inspect'
+    pay: 2 
+vote:
+  pay: 1
+ 

@@ -1,0 +1,12 @@
+locb/jp/justrewards/server/RewardsServlet.class
+locb/jp/justrewards/commands/CommandReward.class
+locb/jp/justrewards/tools/Craft.class
+locb/jp/justrewards/server/HotmcController.class
+locb/jp/justrewards/server/JustServer.class
+locb/jp/justrewards/events/PlayerListener.class
+locb/jp/justrewards/tools/Actions.class
+locb/jp/justrewards/JustRewards.class
+locb/jp/justrewards/server/HotmcRegistry.class
+locb/jp/justrewards/SQLDatabase.class
+locb/jp/justrewards/tools/Actions$1.class
+locb/jp/justrewards/model/Reward.class

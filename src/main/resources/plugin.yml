@@ -1,0 +1,13 @@
+name: JustRewards
+main: locb.jp.justrewards.JustRewards
+version: "1.0"
+
+commands:
+  reward:
+    description: Reward command
+    permission: justrewards.reward
+
+permissions:
+  justrewards*:
+    default: op
+

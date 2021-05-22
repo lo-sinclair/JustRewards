@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy file="target/JustRewards-0.0.2-SNAPSHOT.jar" tofile="/home/locb/www/mc/plugins/JustRewards-0.0.2-SNAPSHOT.jar"/>
+</target>
+</project>

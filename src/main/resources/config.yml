@@ -1,0 +1,15 @@
+mySQL:
+  enable: false
+  host: localhost
+  port: 3306
+  dbname: database
+  user: user
+  password: password
+jetty:
+  port: 8129
+
+time_after_join: 30
+
+messages:
+   pay_arrived: '&eЗарплата прилетела'
+   reward_send: '&eНаграда'
